@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oovk
-- 👀 I’m interested in software development
-- 🙇🏻‍♂️ I’m currently learning machine learning
+- 👀 I’m interested in Data Engineering
+- 🙇🏻‍♂️ I’m currently studying masters in computer science at TU Kaisersalutern
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 Reach me @www.linkedin.com/in/vaibhav-khandekar
 
