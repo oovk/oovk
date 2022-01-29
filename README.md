@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oovk
-- 👀 I’m interested in solving problems
+- 👀 I’m interested in solving real world problems
 - 🙇🏻‍♂️ I’m currently studying masters in computer science at TU Kaisersalutern
 - 📫 Reach me @www.linkedin.com/in/oovk
 
