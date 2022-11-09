@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="desk.gif">
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oovk&label=Profile%20views&color=0e75b6&style=flat" alt="oovk" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=oovk&label=Profile%20views&color=0e75b6&style=flat" alt="oovk" /> </p>
 
 - 🌱 I’m currently learning **Terraform and ArgoCD**
 
