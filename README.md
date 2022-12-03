@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">A engineer passionate about DevOps and System administration.</h3>
+<h3 align="center">An engineer passionate about DevOps and System administration.</h3>
 <img align="right" alt="Coding" width="400" src="desk.gif">
 
 
