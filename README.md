@@ -5,7 +5,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oovk&label=Profile%20views&color=0e75b6&style=flat" alt="oovk" /> </p>
 
-- 🌱 I’m currently learning **Terraform and ArgoCD**
+- 🌱 I’m currently learning **Golang and Terraform**
 
 - 💬 Ask me about **Python, CI/CD, Bash, Jenkins, Linux, Cloud, Docker, K8s**
 
